@@ -1,0 +1,30 @@
+_repo: A-General-History-and-Collection-of-Voyages-and-Travels---Volume-09--13-Arranged-in-Systemati__13055
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kerr, Robert
+    birthdate: 1755
+    deathdate: 1813
+    gutenberg_agent_id: '3594'
+    url: http://www.gutenberg.org/2009/agents/3594
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Kerr_%28writer%29
+description: ''
+gutenberg_issued: '2004-07-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13055'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'G'
+- !lcsh 'Voyages and travels'
+title: "A General History and Collection of Voyages and Travels — Volume 09\r\nArranged\
+  \ in Systematic Order: Forming a Complete History of the Origin and Progress of\
+  \ Navigation, Discovery, and Commerce, by Sea and Land, from the Earliest Ages to\
+  \ the Present Time"
+url: http://www.gutenberg.org/ebooks/13055
